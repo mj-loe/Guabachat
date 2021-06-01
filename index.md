@@ -3,34 +3,11 @@
 구하고 알아가 보는 나 구아바(Guaba)와 함께 수학공부 하자.
 
 
-### Markdown
+### Guaba챗봇과 함께
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+초등학교4학년들 여기 모여 함께 수학 공부하자
 
-```markdown
-Syntax highlighted code block
 
-# GuabaChat
-## Header 2
-### Header 3
+1. 분수의 덧셈
+2. 분수의 뺄셈
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mj-loe/Guabachat/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
